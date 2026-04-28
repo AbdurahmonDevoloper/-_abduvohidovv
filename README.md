@@ -1,7 +1,5 @@
 # Salom, mening ismim Abdurahmon! 👋
-
-<img src=" width="563" height="556" alt="Screenshot 2026-04-29 035034" src="https://github.com/user-attachments/assets/f0da3de4-88cf-4c80-9ae8-0de61fcc3371" />
-" width="150" align="right">
+<img src="https://github.com/user-attachments/assets/f0da3de4-88cf-4c80-9ae8-0de61fcc3371" width="150" align="right">
 
 
 
