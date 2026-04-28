@@ -1,23 +1,19 @@
-# 👋 Salom, mening ismim Abdurahmon 
+# Salom, men Abdurahmon! 👋
+<img src=""Gemini_Generated_Image_yph0d0yph0d0yph0" src="https://github.com/user-attachments/assets/ec285107-6906-46f2-8637-6226cbb4fba3" />" width="200" align="right"
 
-## 🧑‍💻 Men haqimda
-- 🎯 Maqsadim: Kuchli Backend Developer bo‘lish
-- 🌱 Hozir o‘rganayapman: C# va .NET
-- 💡 Qiziqishlarim: Dasturlash va texnologiya
 
----
+### 👨‍💻 Men haqimda:
+- 🚀 Hozirda **C#** va **.NET** yo'nalishida o'rganyapman.
+- 🎯 Maqsadim: Kuchli Senior dasturchi bo'lish.
+- ⚡ Qiziqishlarim: Algoritmlar va yangi texnologiyalar.
 
-## 🚀 Texnologiyalar
-![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp)
-![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+### 🛠 Texnologiyalarim:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Statistikam
-![Stats](https://github-readme-stats.vercel.app/api?username=a_abduvohidovv&show_icons=true&theme=tokyonight)
-
----
+### 📊 GitHub statistikalarim:
+![Abdurahmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurahmonDevoloper&show_icons=true&theme=radical)
 
 ## 🔥 Eng ko‘p ishlatilgan tillar
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a_abduvohidovv&layout=compact&theme=tokyonight)
